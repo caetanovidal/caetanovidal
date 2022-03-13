@@ -1,8 +1,8 @@
 ## Olá
 
 
--🔭 Trabalhando atualmente como fullstack na Injepro <br>
--🌱 Estudando atualmente C#, Python, Django <br>
+-🔭 Trabalhando atualmente como back-end na Injepro<br>
+-🌱 Estudando atualmente C#, Python, IA<br>
 -📫 Contate-me no email: calmgv@gmail.com <br>
   
 <div style="display: inline_block">
