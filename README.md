@@ -1,30 +1,33 @@
-## Olá
+# Hey There. I'm Caetano!
+
+Nice to meet you!I'm currently an InjePro C# developer.
+working on Discord Bots, API's and websites! I'm currently with 2 years of experience, and I work with a number of technologies such as CSS, HTML, Angular, DJango, Python, Javascrip, Typescript and C#
+
+- 🔭 I’m currently working on an API
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on Python Projects
+- 💬 Ask me about my projects (anything really)
+- 📫 How to reach me: my discord: Lord Kark#0755 
+e-mail: calmgv@gmail.com
+
+## Technologies and Tools I work with:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" />
+<img align="left" alt="Django" width="26px" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/>
+<img align="left" alt="Angular" width="26px" src="https://icon-library.com/images/angularjs-icon/angularjs-icon-10.jpg"/>
+<img align="left" alt="Javascrip" width="26px" src="https://icon-library.com/images/91de50e59c_66889.png"/>
+<img align="left" alt="TypeScript" width="26px" src="https://icon-library.com/images/mit-icon/mit-icon-25.jpg"/>
+<img align="left" alt="C#" width="26px" src="https://icon-library.com/images/official-icon/official-icon-9.jpg"/>
+
+<br/>
+<br/>
 
 
--🔭 Trabalhando atualmente como back-end na Injepro<br>
--🌱 Estudando atualmente C#, Python, IA<br>
--📫 Contate-me no email: calmgv@gmail.com <br>
-  
-<div style="display: inline_block">
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="100" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Postgress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCyR9A1bPD8Lpy3gDyfTWyfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/caetano_kark/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caetano-menin-vidal-510048144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-  ![Snake animation](https://github.com/caetanovidal/caetanovidal/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=caetanovidal&theme=vue-dark&show_icons=true&work=work">
+<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=caetanovidal&theme=vue-dark&work=work">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
