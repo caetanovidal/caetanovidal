@@ -1,6 +1,6 @@
 # Hey There. I'm Caetano!
 
-Nice to meet you!I'm currently an InjePro C# developer.
+Nice to meet you! I'm currently an InjePro C# developer.
 working on Discord Bots, API's and websites! I'm currently with 2 years of experience, and I work with a number of technologies such as CSS, HTML, Angular, DJango, Python, Javascrip, Typescript and C#
 
 - 🔭 I’m currently working on an API
