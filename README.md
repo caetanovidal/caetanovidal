@@ -32,7 +32,11 @@ e-mail: calmgv@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   32 mins         ███████████████▒░░░░░░░░░   61.00 %
+HTML         16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.29 %
+Python       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
