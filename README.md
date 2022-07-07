@@ -32,13 +32,7 @@ e-mail: calmgv@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2022 - To: 06 July 2022
-
-TypeScript   32 mins         █████████████▓░░░░░░░░░░░   54.74 %
-HTML         16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
-Python       9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        1 hr 45 mins    █████████▓░░░░░░░░░░░░░░░   38.32 %
 ```
 
 <!--END_SECTION:waka-->
