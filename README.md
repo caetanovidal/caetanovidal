@@ -32,7 +32,7 @@ e-mail: calmgv@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2021 - To: 06 July 2022
+From: 29 June 2022 - To: 06 July 2022
 
 TypeScript   32 mins         █████████████▓░░░░░░░░░░░   54.74 %
 HTML         16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
