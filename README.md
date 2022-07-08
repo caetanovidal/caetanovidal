@@ -32,7 +32,7 @@ e-mail: calmgv@gmail.com
 <!--START_SECTION:waka-->
 
 ```text
-Other        1 hr 45 mins    █████████▓░░░░░░░░░░░░░░░   38.32 %
+Other        2 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
 ```
 
 <!--END_SECTION:waka-->
