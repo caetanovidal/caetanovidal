@@ -28,11 +28,3 @@ e-mail: calmgv@gmail.com
 
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=caetanovidal&theme=vue-dark&show_icons=true&work=work">
 <img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=caetanovidal&theme=vue-dark&work=work">
-
-<!--START_SECTION:waka-->
-
-```text
-Other         9 hrs 4 mins    ███████████░░░░░░░░░░░░░░   43.73 %
-```
-
-<!--END_SECTION:waka-->
