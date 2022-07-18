@@ -7,7 +7,7 @@ description: "Add a Wakatime Coding Activity graph in your Readme"
 inputs:
   GH_TOKEN:
     description: "GitHub access token with Repo scope"
-    default: ${{ github.token }}
+    default: ${{ secrets.WAKATIME_API_KEY }}
     required: true
 
   WAKATIME_API_KEY:
