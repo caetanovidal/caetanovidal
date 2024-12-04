@@ -1,14 +1,7 @@
 # Hey There. I'm Caetano!
 
-Nice to meet you! I'm currently an InjePro C# developer.
-working on Discord Bots, API's and websites! I'm currently with 2 years of experience, and I work with a number of technologies such as CSS, HTML, Angular, DJango, Python, Javascrip, Typescript and C#
-
-- 🔭 I’m currently working on an API
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on Python Projects
-- 💬 Ask me about my projects (anything really)
-- 📫 How to reach me: my discord: Lord Kark#0755 
-e-mail: calmgv@gmail.com
+Nice to meet you! I'm currently at Bayer as a Data Scientist / Python developer .
+working on Discord Bots, API's and websites! I'm currently with 3 years of experience, and I work with a number of technologies such as Flask, Python, C#, GCP, SQL, GO and more
 
 ## Technologies and Tools I work with:
 
@@ -25,6 +18,3 @@ e-mail: calmgv@gmail.com
 <br/>
 <br/>
 
-
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api?username=caetanovidal&theme=vue-dark&show_icons=true&work=work">
-<img align="center" src="https://github-readme-stats-mauve-mu-95.vercel.app/api/top-langs/?username=caetanovidal&theme=vue-dark&work=work">
