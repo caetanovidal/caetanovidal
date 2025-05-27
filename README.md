@@ -3,6 +3,8 @@
 Nice to meet you! I'm currently at Bayer as a Data Scientist / Python developer .
 working on Discord Bots, API's and websites! I'm currently with 3 years of experience, and I work with a number of technologies such as Flask, Python, C#, GCP, SQL, GO and more
 
+check out some projects here: https://caetanovidal.github.io/newport/
+
 ## Technologies and Tools I work with:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
